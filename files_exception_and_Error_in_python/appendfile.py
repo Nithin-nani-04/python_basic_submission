@@ -17,4 +17,4 @@ try:
         file.close()
     
 except Exception as e:
-    print("an error occured:"e)
+    print("an error occured:",e)
