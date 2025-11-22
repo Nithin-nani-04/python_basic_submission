@@ -288,5 +288,3 @@ User Input              Data Preprocessing         Deployed System
 * Even simple systems like contact lists or playlists are small databases.
 
 ---
-
-If you want, I can also add diagrams, examples, or exercises for beginners.
